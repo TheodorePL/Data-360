@@ -139,6 +139,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -231,23 +251,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -267,6 +287,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -292,11 +317,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -352,6 +377,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -444,23 +489,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -480,6 +525,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -505,11 +555,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -565,6 +615,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -661,23 +731,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -697,6 +767,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -723,11 +798,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -783,6 +858,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -875,23 +970,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -911,6 +1006,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -936,11 +1036,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -996,6 +1096,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1092,23 +1212,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1128,6 +1248,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1154,11 +1279,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1214,6 +1339,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1306,23 +1451,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1342,6 +1487,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1367,11 +1517,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1427,6 +1577,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1523,23 +1693,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1559,6 +1729,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1585,11 +1760,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1645,6 +1820,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1737,23 +1932,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1773,6 +1968,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1798,11 +1998,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1858,6 +2058,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1954,23 +2174,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -1990,6 +2210,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -2016,11 +2241,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -2076,6 +2301,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2168,23 +2413,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2204,6 +2449,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -2229,11 +2479,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -2289,6 +2539,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2385,23 +2655,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2421,6 +2691,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -2447,11 +2722,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>
@@ -2507,6 +2782,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2599,23 +2894,23 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJb</field>
+            <field>00NgK00004xLArr</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJc</field>
+            <field>00NgK00004xLArs</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJd</field>
+            <field>00NgK00004xLArt</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJe</field>
+            <field>00NgK00004xLAru</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArv</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
@@ -2635,6 +2930,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -2660,11 +2960,11 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00Ng500000HZNJb</field>
-            <field>00Ng500000HZNJc</field>
-            <field>00Ng500000HZNJd</field>
-            <field>00Ng500000HZNJe</field>
-            <field>00Ng500000HZNJf</field>
+            <field>00NgK00004xLArr</field>
+            <field>00NgK00004xLArs</field>
+            <field>00NgK00004xLArt</field>
+            <field>00NgK00004xLAru</field>
+            <field>00NgK00004xLArv</field>
             <field>OPPORTUNITY.LAST_STAGE_CHANGE</field>
             <field>OPPORTUNITY.PUSH_COUNT</field>
         </opportunityListFieldsUnselectedSettings>

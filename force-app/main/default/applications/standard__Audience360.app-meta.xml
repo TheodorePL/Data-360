@@ -11,7 +11,6 @@
     <tabs>standard-DataStream</tabs>
     <tabs>standard-DataLakeObjectInstance</tabs>
     <tabs>standard-DataModel</tabs>
-    <tabs>standard-DataGovernance</tabs>
     <tabs>standard-DataView</tabs>
     <tabs>standard-EinsteinStudio</tabs>
     <tabs>standard-SemanticModel</tabs>
@@ -23,7 +22,6 @@
     <tabs>standard-MarketSegment</tabs>
     <tabs>standard-ActivationTarget</tabs>
     <tabs>standard-MarketSegmentActivation</tabs>
-    <tabs>standard-DataSpace</tabs>
     <tabs>standard-MlWorkspace</tabs>
     <tabs>standard-DataSemanticSearch</tabs>
     <tabs>standard-MktAiPredictiveInsight</tabs>
@@ -31,11 +29,11 @@
     <tabs>standard-ExtDataShare</tabs>
     <tabs>standard-ExtDataShareTarget</tabs>
     <tabs>standard-DataQueryWorkspace</tabs>
-    <tabs>standard-DataCommunicationCap</tabs>
     <tabs>standard-MktDataTransform</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-UnstructuredData</tabs>
+    <tabs>standard-DataQuickAttribute</tabs>
     <tabs>standard-DataObjSecondaryIndex</tabs>
     <tabs>standard-SemanticContext</tabs>
     <tabs>standard-KnowledgeSpace</tabs>

@@ -248,6 +248,16 @@
             <sortOrder>12</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>ChangeOwnerOne</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>13</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>IncludeOffline</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>14</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>XClean</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>15</sortOrder>
@@ -311,16 +321,6 @@
             <actionName>WebsiteHighlightAction</actionName>
             <actionType>ProductivityAction</actionType>
             <sortOrder>27</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>ChangeOwnerOne</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>13</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>IncludeOffline</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>14</sortOrder>
         </platformActionListItems>
     </platformActionList>
     <quickActionList>

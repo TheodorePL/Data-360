@@ -12,9 +12,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>epic.d4247e7873ad@orgfarm.salesforce.com</defaultCaseOwner>
+    <defaultCaseOwner>epic.88926bbaa54f@orgfarm.salesforce.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>epic.d4247e7873ad@orgfarm.salesforce.com</defaultCaseUser>
+    <defaultCaseUser>epic.88926bbaa54f@orgfarm.salesforce.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
